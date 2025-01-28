@@ -58,6 +58,8 @@ body {
 
 ul {
   list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
 a {
@@ -65,3 +67,5 @@ a {
   text-decoration: none;
   font-size: 24px;
 }
+
+/* remember to take out margin and padding of ul */
