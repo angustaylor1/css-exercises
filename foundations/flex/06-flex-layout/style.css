@@ -71,3 +71,7 @@ ul {
 
 }
 
+/* My solution long winded I could have done all right link left-link stuff
+in a ul selector. they used space between in header and footer instead of 
+the margin left in right links that I used. */
+
